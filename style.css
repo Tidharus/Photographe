@@ -1,5 +1,24 @@
+h1{
+  font-family: Montserrat;
+  font-size: 3.5em;
+  color: #a5b4fc;
+}
+
+p, ul, a {
+  font-family: Manrope;
+  }
+
+p {
+    font-size: 1.1em;
+  }
+
+
+
+
 a {
   color:#000000;
+  font-size: 1em;
+  text-decoration: none;
 }
 
 .highlight {
